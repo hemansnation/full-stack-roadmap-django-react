@@ -1,16 +1,12 @@
-# full-stack-roadmap-django-react
-Full Stack Web Development Roadmap Django React
+# Full Stack Web Development Roadmap Django React
 
-Full Stack Web Development Roadmap
-
-
-Python | Django | ReactJS
+# Python | Django | ReactJS
 
 
 Himanshu Ramchandani
 M.Tech | Data Science
 
-Technology Stack
+# Technology Stack
 Python Core
 HTML
 CSS

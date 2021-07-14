@@ -312,8 +312,11 @@ https://chat.whatsapp.com/CEthikwvNgh5R2jSXDgv4X
 # Connect with me on these platforms:
 
 LinkedIn : https://www.linkedin.com/in/hemansnation/
+
 GitHub : https://github.com/hemansnation
+
 Instagram : https://www.instagram.com/masterdexter.ai/
+
 Twitter : https://twitter.com/hemansnation
 
 Contact for any Query : +91 9074919189

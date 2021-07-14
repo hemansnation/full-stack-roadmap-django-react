@@ -7,72 +7,72 @@ Himanshu Ramchandani
 M.Tech | Data Science
 
 # Technology Stack
-Python Core
-HTML
-CSS
-JavaScript
-ReactJS
-SQL
-Bootstrap
-jQuery
-AJAX
-Django
-GIT - version control
-Integrating Django and React
-Deployment - Heroku
-Live Projects
+Python Core<br>
+HTML<br>
+CSS<br>
+JavaScript<br>
+ReactJS<br>
+SQL<br>
+Bootstrap<br>
+jQuery<br>
+AJAX<br>
+Django<br>
+GIT - version control<br>
+Integrating Django and React<br>
+Deployment - Heroku<br>
+Live Projects<br>
+<br>
 
 
-
-Setup Workspace
-Install Python
-Create environment
-Install Django 3
-Python Core Basics
+# Python Core Basics
 Variables
 Print function
 Input from user
-Data Types
-Numbers 
-Strings 
-Lists 
-Dictionaries 
-Tuples 
-Sets 
-Other Types 
-Operators
-Arithmetic Operators 
-Relational Operators 
-Bitwise Operators 
-Logical Operators 
-Type conversion
 
-Control Statements
-If Else
-If 
-Else 
-Else If 
-If Else Ternary Expression
-While Loops
-Nested While Loops 
-Break 
-Continue 
-pass 
-Loop else
+# Data Types
+Numbers<br>
+Strings <br>
+Lists <br>
+Dictionaries <br>
+Tuples <br>
+Sets <br>
+Other Types <br>
 
-Lists
-List Basics
-List Operations
-List Comprehensions
-List Methods
-Strings
-String Basics 
-String Literals 
-String Operations 
-String Comprehensions 
-String Methods
+# Operators
+Arithmetic Operators <br>
+Relational Operators <br>
+Bitwise Operators <br>
+Logical Operators <br>
+Type conversion<br>
 
-For Loops
+# Control Statements
+If Else<br>
+If <br>
+Else <br>
+Else If <br>
+If Else Ternary Expression<br>
+
+# While Loops
+Nested While Loops <br>
+Break <br>
+Continue <br>
+pass <br>
+Loop else<br>
+
+# Lists
+List Basics<br>
+List Operations<br>
+List Comprehensions<br>
+List Methods<br>
+
+# Strings
+String Basics <br>
+String Literals <br>
+String Operations <br>
+String Comprehensions <br>
+String Methods<br>
+
+# For Loops
 Range Functions
 Nested For Loops
 Break

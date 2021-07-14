@@ -3,7 +3,7 @@
 # Python | Django | ReactJS
 
 
-Himanshu Ramchandani
+Himanshu Ramchandani<br>
 M.Tech | Data Science
 
 # Technology Stack
@@ -73,80 +73,84 @@ String Comprehensions <br>
 String Methods<br>
 
 # For Loops
-Range Functions
-Nested For Loops
-Break
-Continue
-Pass
-Loop else
-Functions
-Definition 
-Call 
-Function Arguments 
-Default Arguments 
-Docstrings 
-Scope 
-Special functions Lambda, Map and Filter 
-Recursion
-Functional Programming and Reference Functions
+Range Functions<br>
+Nested For Loops<br>
+Break<br>
+Continue<br>
+Pass<br>
+Loop else<br>
 
-Dictionaries
-Dictionaries Basics
-Operations
-Comprehensions
-Dictionaries Methods
+# Functions
+Definition <br>
+Call <br>
+Function Arguments <br>
+Default Arguments <br>
+Docstrings <br>
+Scope <br>
+Special functions Lambda, Map and Filter <br>
+Recursion<br>
+Functional Programming and Reference Functions<br>
 
-Tuples
-Tuples Basics
-Tuples Comprehensions
-Tuple Methods
-Sets
-Sets Basics
-Sets Operations
-Union
-Intersection
-Difference and Symmetric Difference
-Data Structures and Algorithms
-Analysis of Algorithms
-Types of analysis
-Asymptotic Notations
-Recursion and Backtracking
-Stack
-Queue
-Trees
-Linked Lists
-Sorting
-Searching
-File Handling
-File Basics
-Opening Files
-Reading Files
-Writing Files
-Editing Files
-Working with different extensions of file
-With Statements
+# Dictionaries
+Dictionaries Basics<br>
+Operations<br>
+Comprehensions<br>
+Dictionaries Methods<br>
 
-Exception Handling
-Common Exceptions
-Exception Handling
-Try
-Except
-Try except else
-Finally
-Raising exceptions
-Assertion
-Object Oriented Programming
-Classes
-Objects
-Method Calls
-Inheritance and Its Types
-Overloading
-Overriding
-Data Hiding
-Operator Overloading
+# Tuples
+Tuples Basics<br>
+Tuples Comprehensions<br>
+Tuple Methods<br>
+
+# Sets
+Sets Basics<br>
+Sets Operations<br>
+Union<br>
+Intersection<br>
+Difference and Symmetric Difference<br>
+
+# Data Structures and Algorithms
+Analysis of Algorithms<br>
+Types of analysis<br>
+Asymptotic Notations<br>
+Recursion and Backtracking<br>
+Stack<br>
+Queue<br>
+Trees<br>
+Linked Lists<br>
+Sorting<br>
+Searching<br>
+File Handling<br>
+File Basics<br>
+Opening Files<br>
+Reading Files<br>
+Writing Files<br>
+Editing Files<br>
+Working with different extensions of file<br>
+With Statements<br>
+
+# Exception Handling
+Common Exceptions<br>
+Exception Handling<br>
+Try<br>
+Except<br>
+Try except else<br>
+Finally<br>
+Raising exceptions<br>
+Assertion<br>
+
+# Object Oriented Programming
+Classes<br>
+Objects<br>
+Method Calls<br>
+Inheritance and Its Types<br>
+Overloading<br>
+Overriding<br>
+Data Hiding<br>
+Operator Overloading<br>
 
 
-Regular Expression
+# Regular Expression
 Basic RE functions
 Patterns
 Meta Characters

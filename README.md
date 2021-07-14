@@ -304,9 +304,13 @@ Code files
 Useful links 
 Session Recordings
 Will be provided as we move further with each and every topic
-Join the Full Stack Development What’sApp Group here:
+
+
+# Join the Full Stack Development What’sApp Group here:
 https://chat.whatsapp.com/CEthikwvNgh5R2jSXDgv4X
-Connect with me on these platforms:
+
+# Connect with me on these platforms:
+
 LinkedIn : https://www.linkedin.com/in/hemansnation/
 GitHub : https://github.com/hemansnation
 Instagram : https://www.instagram.com/masterdexter.ai/
@@ -314,4 +318,3 @@ Twitter : https://twitter.com/hemansnation
 
 Contact for any Query : +91 9074919189
 End of Document
-

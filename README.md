@@ -120,7 +120,8 @@ Trees<br>
 Linked Lists<br>
 Sorting<br>
 Searching<br>
-File Handling<br>
+
+# File Handling
 File Basics<br>
 Opening Files<br>
 Reading Files<br>
@@ -151,82 +152,86 @@ Operator Overloading<br>
 
 
 # Regular Expression
-Basic RE functions
-Patterns
-Meta Characters
-Character Classes
+Basic RE functions<br>
+Patterns<br>
+Meta Characters<br>
+Character Classes<br>
 
-Modules & Packages
-Different types of modules
-Create your own module
-Building Packages
-Build your own python module and deploy it on pip
+# Modules & Packages
+Different types of modules<br>
+Create your own module<br>
+Building Packages<br>
+Build your own python module and deploy it on pip<br>
 
-Magic Methods
-Dunders
-Operator Methods
+# Magic Methods
+Dunders<br>
+Operator Methods<br>
 
 
 
-HTML
-HTML tags
-Forms
-Colors
-Layouts
-Add styles
-Classes and IDs
-CSS
-Colors
-Background
-Margins, border and padding
-Text
-Pseudo Classes
-Transitions
-Links
-Navigation
-Dropdown
-JavaScript
-Basic Syntax
-Variables
-Operators
-Data Type 
-Functions
-Conditional Statements
-For Loop
-Events
-Object Functions
-Object Template Literals
-Form Validations
-Projects
+# HTML
+HTML tags<br>
+Forms<br>
+Colors<br>
+Layouts<br>
+Add styles<br>
+Classes and IDs<br>
 
-ReactJS
-Understanding Why React
-JavaScript Revision
-React Components
-React State
-React Hooks
-API calls using React
-Projects
-Building GitHub Card App
-Building Star Match Game
-SQL
-Structure Query Language Basics
-CRUD ( Create Read Update Delete ) operations
-Operators OR AND
-Order By Group By
-Paginations and Limits
-SQL joins
-Functions
-Primary Key and Foriegn Key
-Subqueries
-Alter Table
-SQL Injections
-Problem Statements
-MySQL
-Working with MySQL Workbench Community Edition
-PostgreSQL
-Complex Interview Questions
-Bootstrap
+# CSS
+Colors<br>
+Background<br>
+Margins, border and padding<br>
+Text<br>
+Pseudo Classes<br>
+Transitions<br>
+Links<br>
+Navigation<br>
+Dropdown<br>
+
+# JavaScript
+Basic Syntax<br>
+Variables<br>
+Operators<br>
+Data Type <br>
+Functions<br>
+Conditional Statements<br>
+For Loop<br>
+Events<br>
+Object Functions<br>
+Object Template Literals<br>
+Form Validations<br>
+Projects<br>
+
+# ReactJS
+Understanding Why React<br>
+JavaScript Revision<br>
+React Components<br>
+React State<br>
+React Hooks<br>
+API calls using React<br>
+Projects<br>
+Building GitHub Card App<br>
+Building Star Match Game<br>
+
+# SQL
+Structure Query Language Basics<br>
+CRUD ( Create Read Update Delete ) operations<br>
+Operators OR AND<br>
+Order By Group By<br>
+Paginations and Limits<br>
+SQL joins<br>
+Functions<br>
+Primary Key and Foriegn Key<br>
+Subqueries<br>
+Alter Table<br>
+SQL Injections<br>
+Problem Statements<br>
+MySQL<br>
+Working with MySQL Workbench Community Edition<br>
+PostgreSQL<br>
+Complex Interview Questions<br>
+
+# Bootstrap
 Containers
 Grid Basics
 Jumbotron
@@ -234,17 +239,19 @@ Buttons
 Badges
 Cards
 Navigation
-jQuery
+
+# jQuery
 Syntax
 Selectors
 Events
 Effects
-AJAX
+
+# AJAX
 Loading jQuery
 Cross-site request forgery in AJAX requests
 Performing AJAX requests with jQuery
 
-Django
+# Django
 Building Blog Application
 Data Schema
 Administrator Models
@@ -324,4 +331,3 @@ Instagram : https://www.instagram.com/masterdexter.ai/
 Twitter : https://twitter.com/hemansnation
 
 Contact for any Query : +91 9074919189
-End of Document
